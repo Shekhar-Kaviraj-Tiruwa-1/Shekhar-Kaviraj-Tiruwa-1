@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Shekhar-Kaviraj-Tiruwa-1%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Shekhar-Kaviraj-Tiruwa-1%20Banner.png">
 
 <h2> Hey there! I'm Shekhar.</h2>
 
