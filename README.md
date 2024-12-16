@@ -24,11 +24,6 @@ With a solid foundation forged during my 1.6 years as a Business Intelligence An
 
 I'm excited to embark on my educational journey at Loyalist College, further deepening my expertise in AI and Data Science. Let's connect and explore the limitless possibilities at the intersection of data and innovation.
 
-- 🤔 &nbsp; Exploring new technologies and developing AI and machine learning Model.
-- 🎓 &nbsp; Studying AI and Data Science .
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
