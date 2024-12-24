@@ -2,8 +2,6 @@
 <h2> Hey there! I'm Shekhar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-## About Me
-Brief introduction about yourself and your professional journey.
 Passionate about AI and Data Science | Postgraduate Student at Loyalist College | Former Business Analyst at Contentstack
 
 Greetings! I'm Shekhar Tiruwa, a dynamic professional embarking on an exciting journey in the realm of Artificial Intelligence (AI) and Data Science at Loyalist College in Canada.
