@@ -1,63 +1,115 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Shekhar Kaviraj Tiruwa this side! 😊
+===============================================================================================================================
+# **About Me**  
 
-<h2> Hey there! I'm Shekhar.</h2>
+Hi, I’m **Shekhar Kaviraj Tiruwa** 🧑‍💻, a passionate **Data Science Practitioner**, **Storyteller of Numbers**, and **Problem Solver**. My journey into data science is fueled by an unending curiosity about how information shapes our world and a deep love for uncovering insights that can drive change.  
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-Passionate about AI and Data Science | Postgraduate Student at Loyalist College | Former Business Analyst at Contentstack
+---
 
-Greetings! I'm Shekhar Tiruwa, a dynamic professional embarking on an exciting journey in the realm of Artificial Intelligence (AI) and Data Science at Loyalist College in Canada.
+## **The Spark of Curiosity** ⚡  
 
-With a solid foundation forged during my 1.6 years as a Business Intelligence Analyst at Contentstack, I honed my skills in harnessing data as a strategic asset. In my previous role, I was instrumental in shaping data-driven decision-making processes.
+My fascination with discovery began in childhood, inspired by the great minds of history—**Nikola Tesla**, **Isaac Newton**, and **Albert Einstein**. I was captivated by the science of inventions like electricity, conductors, and gravity.  
 
-📊 Analytical Expertise: I thrived in the world of Business Intelligence (BI), crafting reports, dashboards, and visualizations that illuminated pathways to informed choices. Armed with tools like Tableau, Zoho Analytics, and more, I ensured that data told a compelling story.
+This passion guided me through high school, where I specialized in **Physics, Chemistry, Mathematics, and Electronics (PCME)**, experimenting with electrical circuits and **PCB-based projects**.  
 
-🛠️ Data Integration Whiz: My proficiency with data integration tools like Snowflake, Fivetran, Salesforce, and Heap empowered me to seamlessly extract, transform, and load (ETL) data from diverse sources, guaranteeing precision and integrity.
+In college, I pursued a **Bachelor’s in Science** 🧪, where I became the **Secretary of the Physics Department** 🏆. I led exhibitions, organized science fairs, and showcased projects that combined creativity and innovation.  
 
-🌐 Global Collaboration: Working alongside diverse stakeholders, including colleagues from the US and across the globe, broadened my perspective. I seamlessly translated their needs into actionable reports, bridging geographical boundaries with data.
+---
 
-🚀 Innovative Problem Solver: My passion lies in untangling complex data puzzles. I love delving into data analysis, unearthing trends, patterns, and anomalies to provide actionable insights that drive business objectives.
+## **The Data Science Epiphany** 💡  
 
-🔧 Automation Aficionado: My dedication to efficiency led to the development and maintenance of data pipelines and workflows, automating tasks to optimize processes.
+My journey took a transformative turn during a career counseling session in my second year. I was introduced to **Machine Learning** and **Data Science** 🖥️—fields where algorithms and information could replace physical prototypes.  
 
-🌱 Continuous Learner: In the fast-evolving landscape of business intelligence, data integration, and reporting, staying ahead of the curve is essential. I am committed to embracing the latest trends and best practices and contributing to continuous improvement initiatives.
+It was a revelation: the power of **predictive models**, **data-driven decisions**, and the ability to derive meaningful insights from complex datasets. From that day, I was hooked. I pivoted to major in Mathematics 📊, which laid the foundation for my understanding of **statistical modeling**, **data visualization**, and the algorithms that power artificial intelligence.  
 
-I'm excited to embark on my educational journey at Loyalist College, further deepening my expertise in AI and Data Science. Let's connect and explore the limitless possibilities at the intersection of data and innovation.
+---
+
+## **Shaping My Career in Data** 📈  
+
+After graduating, I taught myself essential tools and programming languages like **C**, **C++**, **SQL**, and **Tableau**, determined to break into the field of data analytics. This dedication landed me a role as a **Business Intelligence Engineer** at **Contentstack** 🌍, where I:  
+
+- 🖥️ Developed and maintained **dynamic dashboards** and **interactive reports** using **Tableau** and **Zoho Analytics**, empowering teams with actionable insights.  
+- 🔗 Designed **ETL pipelines** with tools like **Snowflake**, **Fivetran**, **Salesforce**, and **Heap**, ensuring seamless data integration and management.  
+- 📊 Leveraged **data modeling** and **forecasting techniques** to solve business problems, improving decision-making processes.  
+- ⚙️ Automated workflows, streamlining operations, and saving valuable time.  
+
+---
+
+## **Exploring the World of Artificial Intelligence** 🤖  
+
+In August 2023, I began a new adventure as an international student in Canada 🍁, pursuing a **Postgraduate Diploma in Artificial Intelligence and Data Science**. This journey has expanded my expertise in cutting-edge AI domains, including:  
+
+- **Natural Language Processing (NLP)** 🗣️: Regex, Parsing, Named Entity Recognition (NER), POS Tagging, Chatbots, Prompt Engineering  
+- **Deep Learning Architectures** 🔍: CNN, GANs, RNN, LSTM, Transfer Learning, Autoencoders  
+- **Big Data Analytics** 🌐: Hadoop, Spark, Hive, GCP Data Proc, MapReduce  
+- **Advanced Data Engineering** 💾: SQL, Data Warehouses, Data Lakes, MongoDB  
+- **Machine Learning Models** 📖: Naive Bayes, Recommender Systems, Transformers  
+
+---
+
+## **The Vision Ahead** 🚀  
+
+My ultimate goal is to merge my technical knowledge and creativity to contribute to impactful projects in fields like **healthcare AI**, **sustainability**, and **data-driven innovation**. I am particularly fascinated by **Generative AI** 🛠️, its ability to mimic human intelligence, and its potential to revolutionize industries.  
+
+As someone who thrives on turning abstract data into concrete solutions, I am excited about the possibilities AI offers. From designing models to crafting actionable strategies, I aim to use data to solve some of humanity's most pressing challenges.  
+
+---
+
+## 🛠 **Tech Stack**  
+
+### **Programming Languages**  
+<p>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" alt="R" />
+</p>
+
+### **Web Development**  
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+</p>
+
+### **Databases**  
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
+</p>
+
+### **Version Control**  
+<p>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown" />
+</p>
+
+### **IDE & Software**  
+<p>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio" alt="RStudio" />
+  <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" />
+</p>
+
+### **Data Science Tools**  
+<p>
+  <img src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau" alt="Tableau" />
+  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch" alt="PyTorch" />
+</p>
+
+### **Big Data Tools**  
+<p>
+  <img src="https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/-Hive-333333?style=flat&logo=apachehive" alt="Hive" />
+</p>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shekhar-Kaviraj-Tiruwa-1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shekhar-Kaviraj-Tiruwa-1&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+---
 
 
+## **Let’s Connect** 🤝  
 
+Whether it’s brainstorming ideas, collaborating on projects, or discussing the future of AI, I’m always eager to connect with like-minded individuals. Let’s work together to innovate, transform, and make a difference in the world of data science.  
