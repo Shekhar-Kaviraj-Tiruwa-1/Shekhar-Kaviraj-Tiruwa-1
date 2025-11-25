@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===============================================================================================================================
 # **About Me**  
 
-Hi, I’m **Shekhar Kaviraj Tiruwa** 🧑‍💻, a passionate **Data Science Practitioner**, **Storyteller of Numbers**, and **Problem Solver**. My journey into data science is fueled by an unending curiosity about how information shapes our world and a deep love for uncovering insights that can drive change.  
+Hi, I’m Shekhar Kaviraj Tiruwa, an aspiring AI Safety Researcher driven by a deep curiosity about how intelligent systems think, generalize, and sometimes fail. My work sits at the intersection of alignment, interpretability, and agentic system behavior, where I explore how models develop goals, how misalignment emerges, and how we can build systems that remain safe as their capabilities scale. I love breaking down complex behaviors, running evaluations, and designing methods that push us closer to building AI that is reliable, transparent, and aligned with human values.
 
 ---
 
