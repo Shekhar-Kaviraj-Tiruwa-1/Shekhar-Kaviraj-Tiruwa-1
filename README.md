@@ -1,115 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Shekhar Kaviraj Tiruwa this side! 😊
-===============================================================================================================================
-# **About Me**  
+# Hi, I'm Shekhar Kaviraj Tiruwa 👋
 
-Hi, I’m Shekhar Kaviraj Tiruwa, an aspiring AI Safety Researcher driven by a deep curiosity about how intelligent systems think, generalize, and sometimes fail. My work sits at the intersection of alignment, interpretability, and agentic system behavior, where I explore how models develop goals, how misalignment emerges, and how we can build systems that remain safe as their capabilities scale. I love breaking down complex behaviors, running evaluations, and designing methods that push us closer to building AI that is reliable, transparent, and aligned with human values.
+**AI Safety Researcher · Data Scientist · Builder**
 
----
+I work at the intersection of alignment, interpretability, and agentic system behavior — exploring how models develop goals, how misalignment emerges, and how we can build systems that remain safe as capabilities scale. I'm currently building an **Agent-Based Red Teaming Framework** for testing LLM applications against adversarial vulnerabilities.
 
-## **The Spark of Curiosity** ⚡  
-
-My fascination with discovery began in childhood, inspired by the great minds of history—**Nikola Tesla**, **Isaac Newton**, and **Albert Einstein**. I was captivated by the science of inventions like electricity, conductors, and gravity.  
-
-This passion guided me through high school, where I specialized in **Physics, Chemistry, Mathematics, and Electronics (PCME)**, experimenting with electrical circuits and **PCB-based projects**.  
-
-In college, I pursued a **Bachelor’s in Science** 🧪, where I became the **Secretary of the Physics Department** 🏆. I led exhibitions, organized science fairs, and showcased projects that combined creativity and innovation.  
+Previously, I worked as a **Business Intelligence Engineer** at [Contentstack](https://www.contentstack.com/), building dashboards, ETL pipelines, and data models that drove real business decisions.
 
 ---
 
-## **The Data Science Epiphany** 💡  
+## What I'm Working On
 
-My journey took a transformative turn during a career counseling session in my second year. I was introduced to **Machine Learning** and **Data Science** 🖥️—fields where algorithms and information could replace physical prototypes.  
+- 🔬 **AI Safety Research** — Red teaming frameworks, LLM evaluations, and adversarial robustness testing
+- 🎓 **BlueDot Impact** — Technical AI Safety course graduate, currently in the Project Sprint
+- 🛠️ **Building** — Automated pipelines to test prompt injection, data leakage, hallucination, and unsafe tool usage in LLM apps
 
-It was a revelation: the power of **predictive models**, **data-driven decisions**, and the ability to derive meaningful insights from complex datasets. From that day, I was hooked. I pivoted to major in Mathematics 📊, which laid the foundation for my understanding of **statistical modeling**, **data visualization**, and the algorithms that power artificial intelligence.  
+## Background
 
----
-
-## **Shaping My Career in Data** 📈  
-
-After graduating, I taught myself essential tools and programming languages like **C**, **C++**, **SQL**, and **Tableau**, determined to break into the field of data analytics. This dedication landed me a role as a **Business Intelligence Engineer** at **Contentstack** 🌍, where I:  
-
-- 🖥️ Developed and maintained **dynamic dashboards** and **interactive reports** using **Tableau** and **Zoho Analytics**, empowering teams with actionable insights.  
-- 🔗 Designed **ETL pipelines** with tools like **Snowflake**, **Fivetran**, **Salesforce**, and **Heap**, ensuring seamless data integration and management.  
-- 📊 Leveraged **data modeling** and **forecasting techniques** to solve business problems, improving decision-making processes.  
-- ⚙️ Automated workflows, streamlining operations, and saving valuable time.  
+- **BSc in Science** (Mathematics major) — Secretary of the Physics Department
+- **PGDip in AI & Data Science** — International student in Canada 🍁
+- **BI Engineer @ Contentstack** — Tableau, Snowflake, Fivetran, Salesforce, ETL automation
 
 ---
 
-## **Exploring the World of Artificial Intelligence** 🤖  
+## Skill Set
 
-In August 2023, I began a new adventure as an international student in Canada 🍁, pursuing a **Postgraduate Diploma in Artificial Intelligence and Data Science**. This journey has expanded my expertise in cutting-edge AI domains, including:  
+**Languages & Frameworks**
 
-- **Natural Language Processing (NLP)** 🗣️: Regex, Parsing, Named Entity Recognition (NER), POS Tagging, Chatbots, Prompt Engineering  
-- **Deep Learning Architectures** 🔍: CNN, GANs, RNN, LSTM, Transfer Learning, Autoencoders  
-- **Big Data Analytics** 🌐: Hadoop, Spark, Hive, GCP Data Proc, MapReduce  
-- **Advanced Data Engineering** 💾: SQL, Data Warehouses, Data Lakes, MongoDB  
-- **Machine Learning Models** 📖: Naive Bayes, Recommender Systems, Transformers  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
----
+**AI / ML**
 
-## **The Vision Ahead** 🚀  
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6F00?style=flat)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-EE4C2C?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat)
+![MCP](https://img.shields.io/badge/MCP-1A1A2E?style=flat)
+![Mechanistic Interpretability](https://img.shields.io/badge/Mech._Interpretability-0D9488?style=flat)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-F59E0B?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-My ultimate goal is to merge my technical knowledge and creativity to contribute to impactful projects in fields like **healthcare AI**, **sustainability**, and **data-driven innovation**. I am particularly fascinated by **Generative AI** 🛠️, its ability to mimic human intelligence, and its potential to revolutionize industries.  
+**Data Engineering**
 
-As someone who thrives on turning abstract data into concrete solutions, I am excited about the possibilities AI offers. From designing models to crafting actionable strategies, I aim to use data to solve some of humanity's most pressing challenges.  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=flat)
+![ETL](https://img.shields.io/badge/ETL-333333?style=flat)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Azure Blob](https://img.shields.io/badge/Azure_Blob-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
 
----
+**Tools & Platforms**
 
-## 🛠 **Tech Stack**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### **Programming Languages**  
-<p>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" alt="R" />
-</p>
+**Concepts**
 
-### **Web Development**  
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
-</p>
-
-### **Databases**  
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
-</p>
-
-### **Version Control**  
-<p>
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" alt="Markdown" />
-</p>
-
-### **IDE & Software**  
-<p>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio" alt="RStudio" />
-  <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" />
-</p>
-
-### **Data Science Tools**  
-<p>
-  <img src="https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau" alt="Tableau" />
-  <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy" alt="NumPy" />
-  <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch" alt="PyTorch" />
-</p>
-
-### **Big Data Tools**  
-<p>
-  <img src="https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache" alt="Hadoop" />
-  <img src="https://img.shields.io/badge/-Hive-333333?style=flat&logo=apachehive" alt="Hive" />
-</p>
-
+`AI Safety & Alignment` · `LLM Behavioral Evaluation` · `FinOps` · `Observability` · `Data Quality Frameworks`
 
 ---
 
+## Let's Connect
 
-## **Let’s Connect** 🤝  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shekhar-tiruwa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
-Whether it’s brainstorming ideas, collaborating on projects, or discussing the future of AI, I’m always eager to connect with like-minded individuals. Let’s work together to innovate, transform, and make a difference in the world of data science.  
+> *"The goal isn't to build AI that's just capable — it's to build AI that's safe as it becomes more capable."*
